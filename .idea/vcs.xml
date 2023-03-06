@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HAIRSEE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HYCU/HYCU" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SHARELINK" vcs="Git" />
   </component>
 </project>
