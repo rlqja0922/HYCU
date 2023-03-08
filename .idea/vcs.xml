@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HAIRSEE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HYCU/HYCU" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SHARELINK" vcs="Git" />
+  </component>
+</project>
