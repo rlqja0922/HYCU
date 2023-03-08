@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+>>>>>>> ec4cbddf5b468900eed3db9dfc9bd5e90c52f08a
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HAIRSEE" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HYCU/HYCU" vcs="Git" />
